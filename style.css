@@ -94,3 +94,14 @@ body {
   color: white;
 }
 
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.images img {
+  width: 200px;
+  margin: 10px;
+  border-radius: 12px;
+}
